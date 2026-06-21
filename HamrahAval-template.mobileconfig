@@ -59,11 +59,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Cellular</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.cellular.743E468A-10AF-49A9-B9EE-7D0A9DBD532F</string>
+			<string>com.apple.cellular.98781768-6cf7-4a2d-a4cc-21af720f4e99</string>
 			<key>PayloadType</key>
 			<string>com.apple.cellular</string>
 			<key>PayloadUUID</key>
-			<string>5da97f8f-52e6-4df1-9629-c1133d6541af</string>
+			<string>c4d06c8e-5778-4f98-9294-cc25c413dfab</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -71,7 +71,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Faabric</string>
 	<key>PayloadIdentifier</key>
-	<string>saeedsMacBookAir.0FD047A9-0E3E-4F53-A328-CFC655E6CBA6</string>
+	<string>634d5118-5d87-4a89-b5a6-015de6718105</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -79,7 +79,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>C3DD0241-9ABE-4868-9532-FECA2B196476</string>
+	<string>513fee28-d802-4b5f-ad9f-feb37a551fd4</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>RemovalDate</key>
